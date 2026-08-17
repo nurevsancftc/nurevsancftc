@@ -14,5 +14,5 @@
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurevsancftc&theme=github-compact&hide_border=true" alt="Activity Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=nurevsancftc&theme=flat&no-frame=true&margin-w=4" />
 </div>
