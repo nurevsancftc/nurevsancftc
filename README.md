@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**nurevsancftc/nurevsancftc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Nurevşan</h1>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://linkedin.com/in/kullaniciadi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mailadresin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br />
+
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vscode" />
+</div>
