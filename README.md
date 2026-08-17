@@ -12,5 +12,5 @@
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nurevsancftc&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nurevsancftc&theme=onedark&no-frame=true&margin-w=4" alt="Trophies" />
 </div>
