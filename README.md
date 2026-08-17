@@ -14,5 +14,5 @@
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurevsancftc&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </div>
