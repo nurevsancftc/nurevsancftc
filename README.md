@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Nurevşan</h1>
+  <h1>Nurevşan ÇİFTÇİ</h1>
 
   <p>
     <a href="https://linkedin.com/in/nurevşan-çiftçi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
